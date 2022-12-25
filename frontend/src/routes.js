@@ -1,15 +1,10 @@
 
 import Index from "views/Index.js";
-import Profile from "views/examples/Profile.js";
-import Maps from "views/examples/Maps.js";
-import Register from "views/examples/Register.js";
-import Login from "views/examples/Login.js";
-import Tables from "views/examples/Tables.js";
-import Predictions from "views/examples/Predictions";
-import Reports from "views/examples/Reports";
-import Demand from "views/examples/Demand";
-import Stock from "views/examples/Stock";
-import Product from "views/examples/Product";
+import Predictions from "views/pages/Predictions";
+import Demand from "views/pages/Demand";
+import Stock from "views/pages/Stock";
+import Product from "views/pages/Product";
+import Register from "./views/pages/Register";
 
 var routes = [
   {
