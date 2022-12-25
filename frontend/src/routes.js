@@ -39,7 +39,7 @@ var routes = [
     path: "/product",
     name: "Product Sales",
     icon: "ni ni-key-25 text-info",
-    component: Stock,
+    component: Product,
     layout: "/admin"
   }
 
