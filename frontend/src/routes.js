@@ -4,7 +4,6 @@ import Predictions from "views/pages/Predictions";
 import Demand from "views/pages/Demand";
 import Stock from "views/pages/Stock";
 import Product from "views/pages/Product";
-import Register from "./views/pages/Register";
 
 var routes = [
   {
